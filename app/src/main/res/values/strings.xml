@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationSender</string>
+    <string name="service_name">Notification Listener</string>
+    <string name="enable_service">Notification Listener On/Off</string>
+    <string name="device_name">Device Name</string>
+    <string name="ip_address">IP Address</string>
+</resources>
